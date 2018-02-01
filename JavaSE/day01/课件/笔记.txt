@@ -1,8 +1,25 @@
-bin目录：存放的是Java的开发工具。
-	java.exe：启动Java虚拟机解释并执行指定的class文件
-	javac.exe：启动java编译器对指定的源代码文件进行编译，生成class文件
-db目录：jdk自带的一个轻量级的数据库，名字Derby
-include：存放的是调用系统资源的接口文件
-jre：Java的运行环境
-lib：核心类库
-src.zip：
+Java目录的介绍
+	bin目录：存放的是Java的开发工具。
+		java.exe：启动Java虚拟机解释并执行指定的class文件
+		javac.exe：启动java编译器对指定的源代码文件进行编译，生成class文件
+	db目录：jdk自带的一个轻量级的数据库，名字Derby
+	include：存放的是调用系统资源的接口文件
+	jre：Java的运行环境
+	lib：核心类库
+	src.zip：
+
+编写一个Java代码的步骤：
+	1）新建一个TXT文件，把后缀名修改为.java
+	2）Java的代码全部都是写在类中
+		class关键字：
+			格式:
+				class HelloWorld{
+				
+				}
+	3）编写一个main方法，写法是固定的，是一个程序执行的入口，代码就是由主方法开始执行的
+	
+javac：
+	使用格式：javac 源文件（指的是java文件）
+	
+java：
+	使用格式：java 源文件（指的是生成的class文件）
