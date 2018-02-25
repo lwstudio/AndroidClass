@@ -1,0 +1,26 @@
+eclipse使用的步骤：
+	
+	第一步： 选择工作目录。 以后在Eclipse上面写的所有代码都是在工作目录上的。
+
+	第二步： 在Project Exploer 窗口上创建一个工程，以后我们写代码都是以工程作为单位的。
+	新建工程的 步骤：  
+		Project Exploer 窗口右击----------> New---------> java Project
+
+	第三步： 在工程的src目录下右击，new 一个Class就创建了一个类。
+		
+		工程的目录介绍：
+			settings： elcipse自动生成的配置文件。 别碰它。		
+			bin: 用于存放所有的class文件。
+			src: 用于存放所有的java源文件。
+	
+	第四步： 运行java文件。
+			
+		方式一：  java的源代码右击-------->run  as -----------> java application
+
+		方式二：  绿色箭头--------->run  as -----------> java application
+		
+		方式三：  快捷键的运行： ctrl+ f11
+
+
+	第五步：导入工程:
+		
