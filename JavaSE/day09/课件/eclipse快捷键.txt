@@ -1,0 +1,31 @@
+eclipse快捷键
+	1）Control-／：对一行或者是多行进行单行注释或者是取消注释
+	2）Control-1：快速修复代码
+	3）alt-up／down：将一行或多行代码上下移动
+	4）Control-Shift-o：组织类的导入，而且可以移除没用的导入
+	5）Control-Shift-f：格式化代码
+	6）Shift-Enter：在光标所在行的下一行插入空白行
+	7）Control-Shift-Enter：在光标所在行的上一行插入空白行
+	8）Control-Alt-up／down：复制当前行到下一行或者是上一行
+	9）Alt-／：代码提示（相当有用的快捷键）
+	10）Control-D：删除当前行
+
+eclipse的使用步骤：
+	1）第一步：选择工作目录。所有在eclipse上写的代码都会都是在工作目录中的。
+	2）第二步：在Project Explorer窗口上新建一个工程，以后所有的代码都是以工程位单位的。
+		新建工程的步骤：Project Explorer窗口右击—>New—>java project
+	3）第三步：在工程的src目录下右击，选择Class创建一个类
+	4）第四步：运行Java文件：
+		运行java文件的三种方式：
+			1）java源代码右击—>run as—>java application
+			2）绿色箭头—>run as—>java application
+			3）快捷键运行：Control-F11
+	5）第五步：导入工程
+
+Eclipse的工程目录介绍：
+	1）settings：eclipse自动生成的配置文件
+	2）bin：用于存放所有的class文件
+	3）src：用于存放所有的java源文件
+
+使用eclipse的好处：
+	1）
